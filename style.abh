@@ -1,5 +1,5 @@
 %%titleformat T0, R-1 C1
-%%footer "$P		Generated: $D"
+%%footer "Generated: $D		$P"
 %%abckit:pipeformat true
 %%straightflags false
 %%flatbeams true
