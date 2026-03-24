@@ -1,0 +1,15 @@
+%abc-2.2
+I:abc-include style.abh
+%%landscape 0
+
+X:1
+T:Auld Lang Syne
+C:Trad.
+R:Air
+M:2/4
+L:1/8
+K:D
+e | {g}A>{d}A {e}A{d}c | {gBd}B>{e}A {GdG}B{gcd}c/B/ | {G}A>{GAG}A {gcd}ce | {fege}f3 {e}f |
+{g}e>c {gcd}c{e}A | {GdG}B>{e}A {gBd}B{gcd}c/B/ | {G}A>{ge}f {g}fe | {gAGAG}A3 {ge}f |
+{gef}e>c {gcd}c{e}A | {GdG}B>{e}A {gBd}B{ge}f | {gef}e>c {gcd}ce | {g}f3 {ag}a |
+e>c {gcd}c{e}A | {GdG}B>{e}A {gBd}B{gcd}c/B/ | {G}A>{ge}f {g}fe | {gAGAG}A3 |

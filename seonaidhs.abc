@@ -1,0 +1,15 @@
+%abc-2.2
+I:abc-include style.abh
+%%landscape 1
+X:1
+T:Seonaidh's Tune
+C:Fred Morrison
+R:Strathspey
+K:D
+M:4/4
+L:1/8
+Z:Transcribed by Stephen Beitzel
+[|: A | {gc}d>e {g}f>g f<{g}e {ge}f2 | {gc}d>e {g}f>g f<{g}d {gef}e2 | {A}e>f {a}g>f {gef}e<d {gcd}c>B | {g}A>{d}c {gef}e>g {a}e<f {e}f>e |
+{Gdc}d>e {g}f>g f<{g}e {ge}f2 | {Gdc}d>e {g}f>g f<{g}d {gef}e2 | {A}e>f {a}g>f {gef}e<d {gcd}c>B | {g}A>{d}c {gef}e>g {a}f<d {gdG}d :|]
+[|: f | {g}f<a {g}a>g f<{g}e {fege}f2 | {g}f>g {ag}a>g f<{g}d {gef}e2 | {A}e>f {a}g>f {gef}e<d {gcd}c>B | {g}A>{d}c {gef}e>g {a}e<f {e}f>g |
+{AGAG}A<a {g}a>g f<{g}e {fege}f2 | {g}f>g {ag}a>g f<{g}d {gef}e2 | {A}e>f {a}g>f {gef}e<d {gcd}c>B | {g}A>{d}c {gef}e>g {a}f<d {gdG}d :|]

@@ -1,0 +1,44 @@
+%abc-2.2
+I:abc-include style.abh
+%%landscape 0
+%%scale 0.65
+X:1
+T:Detroit Highlanders
+R:March
+C:A. MacNeill
+M:2/4
+L:1/16
+Q:"76 bpm"
+V:M1 name="Melody"    snm="M1"
+V:M2 name="Alternate" snm="M2"
+K:D
+% 1
+[V:M1][|: {g}A>d | {gfg}f4 {gef}e2>>c2 | {Gdc}d>e{g}f>A {gBd}B2{G}A2 | {gf}g4 {afg}f2>>e2         | {Gdc}d>fa>f {gef}e2{g}A>d  |
+[V:M2][|: {g}A>d | {gfg}f4 {gef}e2>>c2 | {Gdc}d>e{g}f>A {g}B2{G}A2   | {gf}g4 {afg}f2>>e2         | {Gdc}d>fa>f {g}e2{g}A>d    |
+% 6
+[V:M1]             {gfg}f4 {gef}e2>>c2 | {Gdc}d>e{g}f<a {Bd}B2{G}A2  | {gf}g2{a}d2 {GBG}A>{d}ca>f | {gef}e4 {Gdc}d2          :|]
+[V:M2]             {gfg}f4 {gef}e2>>c2 | {Gdc}d>e{g}f<a B2{G}A2      | {gf}g2{a}d>>B {G}A>ca>f    | {gef}e4 {Gdc}d2          :|]
+% 10
+[V:M1][|: {g}f>g | {ag}a2>>f2 {gf}g2a2 | f>ga>f {gef}e2{Gdc}d2       | {gf}g2a2 {fg}f2>>e2        |  {Gdc}d>fa>f {gef}e2{g}f>g |
+[V:M2][|: {g}f>g | {ag}a2>>f2 {gf}g2a2 | f>ga>f {g}e2{Gdc}d2         | {gf}g2a2 {fg}f2>>e2        |  {Gdc}d>fa>f {g}e2{g}f>g   |
+% 15
+[V:M1][1 {ag}a2>>f2 {gf}g2a2 | f>ga>f {gef}e2{Gdc}d2 | {gf}g2{a}d2 {GBG}A>{d}ca>f | {gef}e4 {Gdc}d2  :|]
+[V:M2][1 {ag}a2>>f2 {gf}g2a2 | f>ga>f {g}e2{Gdc}d2   | {gf}g2{a}d>>B {G}A>ca>f    | {gef}e4 {Gdc}d2  :|]
+% 19
+[V:M1][2 a>f{a}g>e {g}f>d{gef}e>c | {gde}d>B{GdG}g2 {aBd}B2{G}A2 |  {gf}g2{a}d2 {GBG}A>{d}ca>f | {gef}e4 {Gdc}d2  ||
+[V:M2][2 a>fg>e {g}f>d{g}e>c      | {gde}d>B{GdG}g2 B2{G}A2      | {gf}g2{a}d>>B {G}A>ca>f     | {gef}e4 {Gdc}d2  ||
+% 23
+[V:M1][|: {g}A>d | {gfg}f2{g}A>d {gef}e2{g}A>d | {g}B2{Gdc}d2 {gBd}B2{g}A>d | {gf}g2{a}A>d {gfg}f2{g}A>d | {g}c2{Gdc}d2 {gef}e2{g}A>d |
+[V:M2][|: {g}A>d | {gfg}f2{g}A>d {gef}e2{g}A>d | {g}B2{Gdc}d2 {g}B2{g}A>d   | {gf}g2{a}A>d {gfg}f2{g}A>d | {g}c2{Gdc}d2 {gef}e2{g}A>d |
+% 28
+[V:M1] {gfg}f2{g}A>d {gef}e2{g}A>d | {g}B>d{g}c<d {gBd}B2{G}A2 | {gf}g2{a}d2 {GBG}A>{d}ca>f | {gef}e4 {Gdc}d2  :|]
+[V:M2] {gfg}f2{g}A>d {gef}e2{g}A>d | {g}B>d{g}c<d {g}B2{G}A2   | {gf}g2{a}d>>B {G}A>ca>f    | {gef}e4 {Gdc}d2  :|]
+% 32
+[V:M1][|: {g}f>g | a>ga>f g>{a}fg>e | {g}f>ga>f {gef}e2{Gdc}d2 | {gf}g>ag>e {g}f>ga>d | {g}c<{d}B{g}c>d {gef}e2{g}f>g |
+[V:M2][|: {g}f>g | a>ga>f g>{a}fg>e | {g}f>ga>f {g}e2{Gdc}d2   | {gf}g>ag>e {g}f>ga>d | {g}c<{d}B{g}c>d {gef}e2{g}f>g |
+% 37
+[V:M1][1 a>ga>f g>{a}fg>e | {g}f>ga>d {gBd}B2{G}A2 | {gf}g2{a}d2 {GBG}A>{d}ca>f | {gef}e4 {Gdc}d2 :|]
+[V:M2][1 a>ga>f g>{a}fg>e | {g}f>ga>d {g}B2{G}A2   | {gf}g2{a}d>>B {G}A>ca>f    | {gef}e4 {Gdc}d2 :|]
+% 41
+[V:M1][2 a>da>d {g}f>da>d | {gef}e>d{g}B<d {gBd}B2{G}A2 | {gf}g2{a}d2 {GBG}A>{d}ca>f | {gef}e4 {Gdc}d2 |]
+[V:M2][2 a>da>d {g}f>da>d | {gef}e>d{g}B<d {g}B2{G}A2   | {gf}g2{a}d>>B {G}A>ca>f    | {gef}e4 {Gdc}d2 |]

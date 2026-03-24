@@ -1,0 +1,32 @@
+%abc-2.2
+I:abc-include style.abh
+%%landscape 1
+X:4
+T:The Parting Glass
+C:Trad, Arr. Adam Blaine
+L:1/8
+R:Air
+M:4/4
+Q:"70 bpm"
+V:M  name="Melody"    snm="Mel."
+V:H1 name="Harmony 1" snm="H1"
+V:H2 name="Harmony 2" snm="H2"
+V:H3 name="Harmony 3" snm="H3"
+V:H4 name="Harmony 4" snm="H4"
+K:D
+% tune start
+V:M
+{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de | {g}f2 {g}A2 {GAG}A2 {g}fe |
+{Gdc}d3 {g}c/d/ {gBd}B2 {g}AB [M:5/4]| {gc}d2 {c}d2 {gef}e6 [M:3/4] | {g}de {g}Hf2 {ag}Ha2 [M:4/4] [Q:1/4=115] | f6 {g}ef | {g}d4 {e}A4 | {GdG}B8 |]
+V:H1
+{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de |
+{g}f4 e2 {g}fe | {g}f4 {gf}g4 [M:5/4] | {a}B2 e2 {ag}a6 [M:3/4] | de {g}Hd2 {g}Hc2  [Q:1/4=115] [M:4/4] | {g}d6 {g}ef  | {g}f4 {g}e4 | {ge}f8 |]
+V:H2
+{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de |
+{g}f4 e2 {g}fe | {g}f4 {gf}g4 [M:5/4] | {a}g2 e2  {g}d4 c2 [M:3/4] | {g}de {ag}Ha2 Hf2 [Q:1/4=115] [M:4/4]| {ag}a6 ef  | {g}d4 {e}A4 | {ge}f8 |]
+V:H3
+{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {g}c3 {g}B/c/ | {gc}d4 {g}dc A2 |
+{g}A4 c4 | {g}A4 G4- [M:5/4] | G2 {g}A8 [M:3/4]| {g}B2 HA2 {g}HA2 [Q:1/4=115] [M:4/4]| {g}B6 {g}ef | {g}d4 {e}A4 | {GdG}B8 |]
+V:H4
+{g}fe | {Gdc}d3B {gBd}B2{g}AB | {gc}d2{e}A2 {gef}e3 {g}d/e/ | {g}f3g {fg}fe {g}de |
+{g}f2 A2 {GAG}A2 {g}fe | {Gdc}d3 {g}c/d/ {gBd}B2 {g}AB [M:5/4] | {g}d2 {c}d2 {g}B6 [M:3/4] | {g}de {g}Hf2 {ag}Ha2 [Q:1/4=115] [M:4/4]| f6 {g}ef | {g}d4 {e}A4 | {GdG}B8 |]

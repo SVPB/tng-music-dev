@@ -1,0 +1,15 @@
+%abc-2.2
+I:abc-include style.abh
+%%landscape 1
+
+X:1
+T:The Highland Laddie
+R:March
+C:P/M J. MacLeod / Arr. WUSPBA
+L:1/8
+M:2/4
+K:D
+[|: {g}A/>B/ | {Gdc}d>e {g}fa | {f}g/>f/{g}e/>d/ {g}f2 | {gfg}fe {gef}ed/>e | {gfg}fe {gef}e/>d/B |
+{Gdc}d>e {g}fa | {f}g/>f/{g}e/>d/ {g}fe/>f/ | {Gdc}d{e}B {gBd}B{g}A/>B/ | {Gdc}d{e}B {gBd}B :|]
+[|: {gf}g | {ag}a/>g/f {gf}g/>f/e | {gfg}f/>e/{g}d/>e/ {g}f2 | {gfg}fe {gef}ed/>e | {gfg}fe {gef}e{gf}g |
+{ag}a/>g/f {gf}g/>f/e  | {gfg}f/>e/{g}d/>e/ {g}fe/>f/ | {Gdc}d{e}B {gBd}B{g}A/>B/ | {Gdc}d{e}B {gBd}B :|]

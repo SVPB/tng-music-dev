@@ -1,0 +1,14 @@
+%abc-2.2
+I:abc-include style.abh
+%%landscape 1
+X:1
+T:Amazing Grace
+R:Slow Air
+C:Trad. / Arr. WUSPBA
+L:1/8
+M:3/4
+K:D
+{g}A>d | {gdG}d4 {g}f/>e/d | {g}f4 {gfg}f>e | {Gdc}d4 {g}B2 | {G}A4 {g}A>d |
+{gdG}d4 {g}f/>e/d | {g}f4 {g}e>f | {ag}a6 | {GdG}a4 f>a |
+{g}a4 f/>e/d | {g}f4 {gfg}f>e | {Gdc}d4 {g}B2 | {G}A4 {g}A>d |
+{gdG}d4 {g}f/>e/d | {g}f4 e2 |1 {Gdc}d6 | {gdG}d4 :|2 {gef}e6 | {Gdc}d4 |]

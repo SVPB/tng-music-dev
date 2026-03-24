@@ -1,0 +1,15 @@
+%abc-2.2
+I:abc-include style.abh
+%%landscape 1
+X:1
+T:Bob Cooper of Winnipeg
+R:March
+C:Bob Worrall, Arr. by Jack Lee
+Z:abc-transcription Stephen Beitzel, <sbeitzel@pobox.com>, 2025-10-29
+M:4/4
+L:1/8
+K:D
+ {g}Ad | {gfg}f2 {e}fa {e}f2 {g}ed | {gf}g2 {a}g<a {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}f<a df | {gf}g>f d<{e}B {gef}e2 {g}Ad |
+ {gfg}f2 {e}fa {e}f2 {g}ef | {gf}g>{a}f a<g {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}d<f {g}f<a | {ef}eA {g}f/e/c {gc}d3 |
+ A | {ag}a2 {fg}f>e {Gdc}d2 {g}ed | {gf}g2 {a}g<a {A}B2 {gde}d>B | {g}A2 {GAG}Ad {g}f<a df | {gf}g>f d<{e}B {gef}e2 {g}A/B/d |
+{ge}f2 {e}fA {g}f2 {gef}e/d/e/f/ [M:6/4] | {gf}g>{a}f a<g {A}(B2 B4) {gde}d>B [M:4/4] | {g}A2 {GAG}Ad {g}d<f {g}f<a [M:2/4] | {ef}eA {g}f/e/c [M:6/8] |[Q:3/8=114] {g}d6 |]

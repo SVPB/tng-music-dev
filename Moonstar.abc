@@ -1,0 +1,24 @@
+%abc-2.2
+I:abc-include style.abh
+%%scale 0.65
+%%landscape 1
+
+X:1
+T:Moonstar
+C:Charlie Glendinning, 2nds by Adam Blaine
+R:March
+M:4/4
+L:1/8
+V:M name="Melody" snm="Mel."
+V:H name="Seconds" snm="2nd"
+K:D
+V:M
+| {Gdc}d>f {ag}ad {gcd}c>f {ag}ac | {g}B>e {gf}gB {G}A2 {gde}dA | {g}B>e {gf}gB {G}Ad {g}fa | {f}g>f {gef}ed {gcd}ca {f}g{a}e |
+| {Gdc}d>f {ag}ad {gcd}c>f {ag}ac | {g}B>e {gf}gB {G}A2 {gde}dA | {g}B>{d}G {e}G{d}B A{GdG}c {gef}e>f | {gf}g{BG}B {ge}f>e {Gdc}d2 {gdG}d2 |
+| {g}f>a {g}af {g}ea {ef}ec | {Gdc}d>g {f}gd {g}c<f {gcd}c2 | {g}B>c {gde}dB {g}Ad {g}fa | {f}g>f {gef}ed {gcd}ca {f}g{a}e |
+| {g}f>a {g}af {g}ea {ef}ec | {Gdc}d>g {f}gd {g}c<f {gcd}c2 | {g}B>c {gde}dB A{GdG}c {gef}e>f | {gf}g{BG}B {ge}f>e {Gdc}d2 {gdG}d2 |
+V:H
+[| {Gdc}d>f {ag}ad {gcd}c>f {ag}ac | {g}B>e {gf}gB {G}A2 {gde}dA | {g}B>e {gf}gB {G}Ad {g}fa | {f}g>f {gef}ed {gcd}ca {f}g{a}e |
+{Gdc}d4 {gcd}c4 | {g}B4 {G}A2 {gde}dA | {g}B>{d}G {e}G{d}B A{GdG}c {gef}e>f | {gf}g2 a>g f2 {gfe}f2 ||
+{Gdc}d4 {gcd}c4 | {g}B4 {g}c4 | {g}d4 {g}d4 | {g}e4 {gf}g2 ag |
+{a}d4 {gcd}c4 | {g}B4 {g}c4 | {g}d4 {g}e4| {gf}g2 {ag}a>g {ge}f2 {gfe}f2 |]
